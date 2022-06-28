@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lotlouischoitslab/ITE_ILLINOIS/static/css/main.57a6dbd8.css",
-    "main.js": "/lotlouischoitslab/ITE_ILLINOIS/static/js/main.1edc38a0.js",
-    "static/media/its.jpg": "/lotlouischoitslab/ITE_ILLINOIS/static/media/its.bd7d2a9a4d0941d49de5.jpg",
-    "static/media/ite_logo.png": "/lotlouischoitslab/ITE_ILLINOIS/static/media/ite_logo.2896d440e71f87221216.png",
-    "index.html": "/lotlouischoitslab/ITE_ILLINOIS/index.html",
-    "main.57a6dbd8.css.map": "/lotlouischoitslab/ITE_ILLINOIS/static/css/main.57a6dbd8.css.map",
-    "main.1edc38a0.js.map": "/lotlouischoitslab/ITE_ILLINOIS/static/js/main.1edc38a0.js.map"
+    "main.css": "/ITE_ILLINOIS/static/css/main.3105514f.css",
+    "main.js": "/ITE_ILLINOIS/static/js/main.3e166337.js",
+    "static/media/its.jpg": "/ITE_ILLINOIS/static/media/its.bd7d2a9a4d0941d49de5.jpg",
+    "static/media/ite_logo.png": "/ITE_ILLINOIS/static/media/ite_logo.2896d440e71f87221216.png",
+    "index.html": "/ITE_ILLINOIS/index.html",
+    "main.3105514f.css.map": "/ITE_ILLINOIS/static/css/main.3105514f.css.map",
+    "main.3e166337.js.map": "/ITE_ILLINOIS/static/js/main.3e166337.js.map"
   },
   "entrypoints": [
-    "static/css/main.57a6dbd8.css",
-    "static/js/main.1edc38a0.js"
+    "static/css/main.3105514f.css",
+    "static/js/main.3e166337.js"
   ]
 }
