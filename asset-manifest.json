@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ITE_ILLINOIS/static/css/main.3105514f.css",
-    "main.js": "/ITE_ILLINOIS/static/js/main.3e166337.js",
+    "main.css": "/ITE_ILLINOIS/static/css/main.5371dce5.css",
+    "main.js": "/ITE_ILLINOIS/static/js/main.f6bf7024.js",
     "static/media/its.jpg": "/ITE_ILLINOIS/static/media/its.bd7d2a9a4d0941d49de5.jpg",
     "static/media/ite_logo.png": "/ITE_ILLINOIS/static/media/ite_logo.2896d440e71f87221216.png",
     "index.html": "/ITE_ILLINOIS/index.html",
-    "main.3105514f.css.map": "/ITE_ILLINOIS/static/css/main.3105514f.css.map",
-    "main.3e166337.js.map": "/ITE_ILLINOIS/static/js/main.3e166337.js.map"
+    "main.5371dce5.css.map": "/ITE_ILLINOIS/static/css/main.5371dce5.css.map",
+    "main.f6bf7024.js.map": "/ITE_ILLINOIS/static/js/main.f6bf7024.js.map"
   },
   "entrypoints": [
-    "static/css/main.3105514f.css",
-    "static/js/main.3e166337.js"
+    "static/css/main.5371dce5.css",
+    "static/js/main.f6bf7024.js"
   ]
 }
